@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hAKoVVcf7mCefaEsZ6UTLeLAsYOnl3mcNeEJzjthp4jI5hHcR06bBY0Vn8gWatOJE3ZPzUAKxhlS4I+/l9fCyg==",
+  "success": true,
+  "projectFilePath": "D:\\pratik\\temp\\Assignment\\Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pratik.c\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.24.2\\microsoft.cognitiveservices.speech.1.24.2.nupkg.sha512",
+    "C:\\Users\\pratik.c\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
